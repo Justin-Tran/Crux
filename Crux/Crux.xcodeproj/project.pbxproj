@@ -65,8 +65,8 @@
 				3DC0CD4E1E20CC3900CB9A43 /* Actions.sks */,
 				3DC0CD501E20CC3900CB9A43 /* GameScene.swift */,
 				3DC0CD521E20CC3900CB9A43 /* GameViewController.swift */,
-				3DC0CD541E20CC3900CB9A43 /* Main.storyboard */,
 				3DC0CD571E20CC3900CB9A43 /* Assets.xcassets */,
+				3DC0CD541E20CC3900CB9A43 /* Main.storyboard */,
 				3DC0CD591E20CC3900CB9A43 /* LaunchScreen.storyboard */,
 				3DC0CD5C1E20CC3900CB9A43 /* Info.plist */,
 			);
@@ -316,6 +316,7 @@
 				3DC0CD611E20CC3900CB9A43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
